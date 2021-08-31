@@ -1,0 +1,6 @@
+.vscode
+.idea
+node_modules
+webpack.config.js
+server.php
+db.json
